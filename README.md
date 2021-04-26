@@ -68,7 +68,7 @@ In progress
 
 ## Team Info
 <!-- Introduce your amazing team - how many team members are working on this project and who are they?-->
-The Luxurify team was assembled as part of the Chainlink hackathon there are currently 2 members
+The LandMinw team was assembled as part of the Chainlink hackathon there are currently 2 members
 
 ### Team Size
 2 members
