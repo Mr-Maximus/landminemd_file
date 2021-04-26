@@ -79,7 +79,7 @@ The LandMinw team was assembled as part of the Chainlink hackathon there are cur
 
 
 ## How the community can engage
-GitHub Discussion: https://github.com/ipfs/community/discussions/491
+GitHub Discussion:N/A
 Email: jaiswalsamar443@gmail.com
 Slack: N/A
 Twitter: @Maximus1_ @MukeshJ_eth
