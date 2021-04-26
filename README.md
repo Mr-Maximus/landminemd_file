@@ -23,15 +23,26 @@ Need to add the registration page, redesign the ui and the transaction page and 
 
 ## Previews
 <!--Add some screenshots to give a preview of your product-->
-Screenshots: https://siasky.net/vAHX05cSzk8_3diwKLFumx4lGXFN3M0cgVAioQDQxdjrIg
-             https://siasky.net/LADILo82OTgI6clQsVhn5w58BVwqpB_QVFJ7Vg8zpEz1FQ
-             https://siasky.net/jADE_NAY6CdapliFLhKSFY6zQwAFXblvLxS3Q4WqdvIHPw
-             https://siasky.net/DADm7GaFYmjPhP8eM7a2FmN61eOcFvpBY3TC_P7kLDz5ag
-             https://siasky.net/LAC6uvrtyQzAPYqBXMiSAiq0Fx_8kUGgg1EWZxxOsd0U3Q
-             https://siasky.net/fAb9RSi49mIgDIRlLb4qy_cHAsRPub1rYY2yXeSmr07Aqw
-             https://siasky.net/fABWmFWSi_B-VcxYXNhjFQPDoJ5YPfEVm5tn3ioaAEV_Mw
-             https://siasky.net/zACIz4ziCpjSOpy4OQcHeFBL2i1DAldxB_aGqMBoGe1lnQ
-             https://siasky.net/TABrvgK5iRUwSXMUY4ZsBdWvYhL-rXs5cr5ZMLVrJ5pTXw
+Screenshots: ![alt text](https://siasky.net/vAHX05cSzk8_3diwKLFumx4lGXFN3M0cgVAioQDQxdjrIg)
+
+
+![alt text](https://siasky.net/LADILo82OTgI6clQsVhn5w58BVwqpB_QVFJ7Vg8zpEz1FQ)
+
+
+![alt text](https://siasky.net/jADE_NAY6CdapliFLhKSFY6zQwAFXblvLxS3Q4WqdvIHPw)
+
+
+![alt text](https://siasky.net/LAC6uvrtyQzAPYqBXMiSAiq0Fx_8kUGgg1EWZxxOsd0U3Q)
+
+
+![alt text](https://siasky.net/DADm7GaFYmjPhP8eM7a2FmN61eOcFvpBY3TC_P7kLDz5ag)
+ ![alt text](https://siasky.net/fAb9RSi49mIgDIRlLb4qy_cHAsRPub1rYY2yXeSmr07Aqw)
+
+![alt text](https://siasky.net/fABWmFWSi_B-VcxYXNhjFQPDoJ5YPfEVm5tn3ioaAEV_Mw)
+![alt text](https://siasky.net/zACIz4ziCpjSOpy4OQcHeFBL2i1DAldxB_aGqMBoGe1lnQ)
+
+![alt text](https://siasky.net/vAOlzpNoPqCbA6QvK7MZmWBxqpe-LLA_qYjA9kUZjbXJVQ)
+
               
 Video: https://youtu.be/QuhAO8GlKT8
 
